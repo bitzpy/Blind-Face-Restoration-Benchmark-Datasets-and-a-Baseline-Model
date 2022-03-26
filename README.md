@@ -36,3 +36,5 @@ Download the pre-trained models of STUNet and put them in 'STUNet/check_points/'
 You can also train our STUNet by yourself. The training configurations is stored in STUNet/options/opt.json. Modify the configuration file according to your needs. Then use python train.py to train the STUNet.
 
 ### Evaluation
+
+# **Blind Face Restoration Methods**
