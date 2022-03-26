@@ -29,7 +29,7 @@ Download BFRBD128 and BFRBD512 from [Benchmark Datasets Download Link](#Benchmar
 
 ### **Testing**
 
-Download the pre-trained models of STUNet and put them in `STUNet/check_points/`.  Next, modify the path of datasets and pre-trained models in `test.py` .  Last, use `python test.py` to generate results.
+Download the [pre-trained models](#Pre-trained-Models) of STUNet and put them in `STUNet/check_points/`.  Next, modify the path of datasets and pre-trained models in `test.py` .  Last, use `python test.py` to generate results.
 
 ### Training
 
@@ -52,6 +52,7 @@ HiFaceGAN:
 PSFRGAN: 
 GFPGAN: 
 GPEN: 
+STUNet
 ```
 # **Benchmarm Results**
 ```
@@ -60,4 +61,5 @@ HiFaceGAN:
 PSFRGAN:
 GFPGAN: 
 GPEN: 
+STUNet
 ```
