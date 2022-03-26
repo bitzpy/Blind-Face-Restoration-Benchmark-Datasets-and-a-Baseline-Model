@@ -29,22 +29,35 @@ Download BFRBD128 and BFRBD512 from [Benchmark Datasets Download Link](#Benchmar
 
 ### **Testing**
 
-Download the pre-trained models of STUNet and put them in `STUNet/check_points/`.  Next, modify the path of datasets and pre-trained models in  test.py .  Last, use python test.py to generate results.
+Download the pre-trained models of STUNet and put them in `STUNet/check_points/`.  Next, modify the path of datasets and pre-trained models in `test.py` .  Last, use `python test.py` to generate results.
 
 ### Training
 
-You can also train our STUNet by yourself. The training configurations is stored in STUNet/options/opt.json. Modify the configuration file according to your needs. Then use python train.py to train the STUNet.
+You can also train our STUNet by yourself. The training configurations is stored in `STUNet/options/opt.json`. Modify the configuration file according to your needs. Then use `python train.py` to train the STUNet.
 
 ### Evaluation
 
 # **Blind Face Restoration Methods**
 ```
-DIC: https://github.com/Maclory/Deep-Iterative-Collaboration
-DIC-GAN: https://github.com/Maclory/Deep-Iterative-Collaboration
-HiFaceGAN: https://github.com/Lotayou/Face-Renovation
-Wavelet: https://github.com/hhb072/WaveletSRNet
-EDSR: https://github.com/sanghyun-son/EDSR-PyTorch
-RCAN: https://github.com/yulunzhang/RCAN
-RDN: https://github.com/yulunzhang/RDN
-HAN: https://github.com/wwlCape/HAN
+DFDNet: https://github.com/csxmli2016/DFDNet
+HiFaceGAN: https://github.com/chaofengc/PSFRGAN
+PSFRGAN: https://github.com/Lotayou/Face-Renovation
+GFPGAN: https://github.com/TencentARC/GFPGAN
+GPEN: https://github.com/yangxy/GPEN
+```
+# **Pre-trained Models**
+```
+DFDNet:
+HiFaceGAN: 
+PSFRGAN: 
+GFPGAN: 
+GPEN: 
+```
+# **Benchmarm Results**
+```
+DFDNet: 
+HiFaceGAN: 
+PSFRGAN:
+GFPGAN: 
+GPEN: 
 ```
