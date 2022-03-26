@@ -1,11 +1,11 @@
 # **Contents**
 
-0. [Benchmark Datasets Download Link](#{Benchmark Datasets Download Link})
+0. [Benchmark Datasets Download Link](#{Benchmark-Datasets-Download-Link})
 
 1. [STUNet](#STUNet)
-2. [Blind Face Restoration Methods](#Blind Face Restoration Methods)
-3. [Pre-trained Models](#Pre-trained Models)
-4. [Benchmarking Results](#Benchmarking Results)
+2. [Blind Face Restoration Methods](#Blind-Face-Restoration-Methods)
+3. [Pre-trained Models](#Pre-trained-Models)
+4. [Benchmarking Results](#Benchmarking-Results)
 
 # **Benchmark Datasets Download Link**
 
