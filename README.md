@@ -17,4 +17,9 @@
   - **Test**:
 
 # **STUNet**
-
+###**Environment**
+- ubuntu
+- Pytorch 1.9
+- CUDA 11.3
+- python_packages: torchvision,  torch,  numpy,  opencv-python,  Pillow,  timm,  ipython
+- system_packages: libgl1-mesa-glx, libglib2.0-0
