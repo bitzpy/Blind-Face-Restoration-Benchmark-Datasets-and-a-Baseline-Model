@@ -1,12 +1,11 @@
 # Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model
 # **Contents**
 
-0. [Benchmark Datasets Download Link](#download)
-
-1. [STUNet](#method)
-2. [Blind Face Restoration Methods](baseline)
-3. [Pre-trained Models](model)
-4. [Benchmarking Results](results)
+0. [Benchmark Datasets Download Link](#Benchmark Datasets Download Link)
+1. [STUNet](#STUNet)
+2. [Blind Face Restoration Methods](Blind Face Restoration Methods)
+3. [Pre-trained Models](Pre-trained Models)
+4. [Benchmarking Results](Benchmarking Results)
 
 # **Benchmark Datasets Download Link**
 
