@@ -25,7 +25,7 @@
 - System_packages: libgl1-mesa-glx, libglib2.0-0
 ### **Dataset Preparation**
 
-Download BFRBD128 and BFRBD512 from [Benchmark Datasets Download Link](#Benchmark Datasets Download Link) and put them in the appropriate directory according to your needs. The two datasets provide
+Download BFRBD128 and BFRBD512 from [Benchmark Datasets Download Link](#Benchmark-Datasets-Download-Link) and put them in the appropriate directory according to your needs. The two datasets provide
 
 ### **Testing**
 
@@ -38,3 +38,6 @@ You can also train our STUNet by yourself. The training configurations is stored
 ### Evaluation
 
 # **Blind Face Restoration Methods**
+'''
+
+'''
