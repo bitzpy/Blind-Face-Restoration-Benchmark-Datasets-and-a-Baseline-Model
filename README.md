@@ -1,5 +1,5 @@
 # Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model
-**#** **Contents**
+# **Contents**
 
 0. [Benchmark Datasets Download Link](#download)
 
@@ -8,7 +8,7 @@
 3. [Pre-trained Models](model)
 4. [Benchmarking Results](results)
 
-**#** **Benchmark Datasets Download Link**
+# **Benchmark Datasets Download Link**
 
 - **BFRBD128**
   - **Train**:
@@ -17,5 +17,5 @@
   - **Train**:
   - **Test**:
 
-**#** **STUNet**
+# **STUNet**
 
