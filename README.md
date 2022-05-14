@@ -47,12 +47,12 @@ GPEN: https://github.com/yangxy/GPEN
 ```
 # **Pre-trained Models**
 ```
-DFDNet:
-HiFaceGAN: 
-PSFRGAN: 
-GFPGAN: 
-GPEN: 
-STUNet
+DFDNet: https://github.com/csxmli2016/DFDNet (We use the pre-train model provided by the author.)
+HiFaceGAN: https://pan.baidu.com/s/1Yiof155wF1GUNOuw2wUWXw (4kya)
+PSFRGAN: https://pan.baidu.com/s/1GgTOc1FMF34b1Nf0_9rlGg (4kya)
+GFPGAN: https://pan.baidu.com/s/1E7yt_FLLZghMJFYO8cSj9g (4kya)
+GPEN: https://pan.baidu.com/s/1mySckCwIKIUGJbyhW28Idw (4kya)
+STUNet: https://pan.baidu.com/s/16E4cqM7pbnh9w236l7_79Q (4kya)
 ```
 # **Benchmarm Results**
 ```
