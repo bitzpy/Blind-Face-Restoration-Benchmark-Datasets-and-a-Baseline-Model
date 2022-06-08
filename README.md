@@ -1,20 +1,12 @@
 # **Contents**
 
-0. [Benchmark Datasets Download Link](#{Benchmark-Datasets-Download-Link})
 
 1. [STUNet](#STUNet)
 2. [Blind Face Restoration Methods](#Blind-Face-Restoration-Methods)
 3. [Pre-trained Models](#Pre-trained-Models)
 4. [Benchmarking Results](#Benchmarking-Results)
 
-# **Benchmark Datasets Download Link**
 
-- **BFRBD128**
-  - **Google Drive**:
-  - **Baidu Netdisk**:https://pan.baidu.com/s/1sFpJeuBb5dSP8GETmGfnow (w2bx)
-- **BFRBD512**
-  - **Google Drive**:
-  - **Baidu Netdisk**: https://pan.baidu.com/s/1LUHCqapQC5ePH1GaM6DJ4Q (k3vv)
 
 # **STUNet**
 ###  **Environment**
@@ -25,7 +17,7 @@
 - System_packages: libgl1-mesa-glx, libglib2.0-0
 ### **Dataset Preparation**
 
-Download BFRBD128 and BFRBD512 from [Benchmark Datasets Download Link](#Benchmark-Datasets-Download-Link) and put them in the appropriate directory according to your needs. The two datasets provide
+Download [BFRBD128](https://drive.google.com/drive/folders/1fzTNHjFh-RIt8N8jWfRquSr8xRDiiW95?usp=sharing) and [BFRBD512](https://drive.google.com/drive/folders/1B3pba2rKUsyoppHOCMx0vmpNuSafKwj3?usp=sharing) and put them in the appropriate directory according to your needs. The two datasets provide
 
 ### **Testing**
 
