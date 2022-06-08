@@ -54,14 +54,15 @@ GFPGAN: https://pan.baidu.com/s/1E7yt_FLLZghMJFYO8cSj9g (4kya)
 GPEN: https://pan.baidu.com/s/1mySckCwIKIUGJbyhW28Idw (4kya)
 STUNet: https://pan.baidu.com/s/16E4cqM7pbnh9w236l7_79Q (4kya)
 ```
-# **Benchmarm Results**
+# **Benchmark Results**
 ```
 DFDNet: 
-HiFaceGAN: 
+HiFaceGAN: https://pan.baidu.com/s/17tTcEYdy6AGNh9UZCQ4CiA (exb4)
 PSFRGAN:
 GFPGAN: 
-GPEN: 
-STUNet
+GPEN: https://pan.baidu.com/s/19OaTwlqvJlgOc_sIFESxpw (exb4)
+STUNet: https://pan.baidu.com/s/1Mi-TlCmnFXgvY_jk17Tzeg (exb4) 
+
 ```
 # **Acknowledgement**
 Our codes are heavily based on [SwinIR](https://github.com/JingyunLiang/SwinIR). We also borrow some codes from [HiFaceGAN](https://github.com/Lotayou/Face-Renovation) and 
