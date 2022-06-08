@@ -17,7 +17,7 @@
 - System_packages: libgl1-mesa-glx, libglib2.0-0
 ### **Dataset Preparation**
 
-Download [BFRBD128](https://drive.google.com/drive/folders/1fzTNHjFh-RIt8N8jWfRquSr8xRDiiW95?usp=sharing) and [BFRBD512](https://drive.google.com/drive/folders/1B3pba2rKUsyoppHOCMx0vmpNuSafKwj3?usp=sharing) and put them in the appropriate directory according to your needs. The two datasets provide
+Download [BFRBD128](https://github.com/HDCVLab/EDFace-Celeb-1M#edface-celeb-1m-bfr128--blind-face-restoration-hq-lq-blur-jpeg-artifact-noise-sr-full-full_x2-full_x4-full_x8) and [BFRBD512](https://github.com/HDCVLab/EDFace-Celeb-1M#edface-celeb-150k-bfr512-blind-face-restoration-hq-lq-blur-jpeg-artifact-noise-sr-full-full_x2-full_x4-full_x8) and put them in the appropriate directory according to your needs. The two datasets provide
 
 ### **Testing**
 
