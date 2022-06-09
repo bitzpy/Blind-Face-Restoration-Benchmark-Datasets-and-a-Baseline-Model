@@ -59,3 +59,18 @@ STUNet: https://pan.baidu.com/s/1Mi-TlCmnFXgvY_jk17Tzeg (exb4)
 # **Acknowledgement**
 Our codes are heavily based on [SwinIR](https://github.com/JingyunLiang/SwinIR). We also borrow some codes from [HiFaceGAN](https://github.com/Lotayou/Face-Renovation) and 
 [Restormer](https://github.com/swz30/Restormer).
+
+
+# **Citation**
+If you think this work is useful for your research, please cite the following paper.
+
+```
+@inproceedings{zhang2022blind,
+  title={Blind Face Restoration: Benchmark Datasets and a Baseline Model},
+  author={Zhang, Puyang and Zhang, Kaihao and Luo, Wenhan and Li, Changsheng and Wang, Guoren},
+  booktitle={arXiv:2206.03697},
+  year={2022}
+}
+```
+
+
