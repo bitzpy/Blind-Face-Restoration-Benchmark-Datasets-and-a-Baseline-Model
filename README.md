@@ -71,6 +71,12 @@ If you think this work is useful for your research, please cite the following pa
   booktitle={arXiv:2206.03697},
   year={2022}
 }
+@inproceedings{zhang2021edface,
+  title={EDFace-Celeb-1M: Benchmarking Face Hallucination with a Million-scale Dataset},
+  author={Zhang, Kaihao and Li, Dongxu and Luo, Wenhan and Liu, Jingyu and Deng, Jiankang and Liu, Wei and Stefanos Zafeiriou},
+  booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+  year={2022}
+}
 ```
 
 
