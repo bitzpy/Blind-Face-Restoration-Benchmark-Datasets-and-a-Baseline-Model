@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES='0'  python train_simple.py  --channel_multiplier 2 --narrow 1 --ckpt ckpts/noise --sample ckpts/noise/img

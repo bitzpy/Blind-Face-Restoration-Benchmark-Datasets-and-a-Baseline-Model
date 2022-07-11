@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES='3'  python train_simple.py  --channel_multiplier 2 --narrow 1 --ckpt ckpts/jpeg --sample ckpts/jpeg/img
