@@ -48,10 +48,10 @@ STUNet: https://pan.baidu.com/s/16E4cqM7pbnh9w236l7_79Q (4kya)
 ```
 # **Benchmark Results**
 ```
-DFDNet: 
+DFDNet: https://pan.baidu.com/s/1I2UysJ5vDfwGMvRgVVSqzg (exb4)
 HiFaceGAN: https://pan.baidu.com/s/17tTcEYdy6AGNh9UZCQ4CiA (exb4)
-PSFRGAN:
-GFPGAN: 
+PSFRGAN: https://pan.baidu.com/s/1fzcnJote018v6g3Tn1-URw (exb4)
+GFPGAN: https://pan.baidu.com/s/1_P8OMwGaDyCe7H0G2a9fjA (exb4)
 GPEN: https://pan.baidu.com/s/19OaTwlqvJlgOc_sIFESxpw (exb4)
 STUNet: https://pan.baidu.com/s/1Mi-TlCmnFXgvY_jk17Tzeg (exb4) 
 
