@@ -426,7 +426,7 @@ class STUNet(nn.Module):
         self.patch_norm = patch_norm
         self.num_features = embed_dim
         self.mlp_ratio = mlp_ratio
-        nums = [1,1,1,1]
+        nums = [4,6,6,8]
         # stochastic depth
         dpr = [x.item() for x in torch.linspace(0, drop_path_rate, sum(nums))]  # stochastic depth decay rule
 

@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 from utils import util_option as option
 import torch
 import cv2
-from models.network_swinir import SwinFaceRestoration as net
+from models.network_STUNet import STUNet as net
 from data.test_dataset import test_dataset 
 from PIL import Image
 def tensor2uint(img):
@@ -57,7 +57,6 @@ def main():
     for i, test_data in enumerate(test_loader):
         print(i)
         imgL = test_data['L'].to(device)
-        mask = test_data['mask'].to(device)
         imgH = test_data['H'].to(device)
  
         with torch.no_grad():
